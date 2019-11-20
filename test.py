@@ -1,7 +1,7 @@
 import telebot
 from logging import DEBUG
 telebot.logger.setLevel(DEBUG)
-API_TOKEN = '973214590:AAGt1CjZEARL0pIT7zFdexk05CL53fYi5YA'
+API_TOKEN = 'token'
 
 if API_TOKEN == "":
     exit("Inserire un token")
